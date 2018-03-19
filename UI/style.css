@@ -1,0 +1,108 @@
+body {
+    padding-top: 45px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.42857143;
+	}
+
+#products a{
+    color:black;
+}
+    
+ .bg-gray{
+    background-color: #f6f6f6 !important;
+    margin: 20px;
+}
+.img-thumbnail > img{
+   width:100%;
+   height:100%;
+}
+
+.section_padding_50 {
+    padding: 50px 0;
+}
+.about_us_text p{
+    text-align: justify;
+}
+.navbar-brand>img {
+    max-height: 150%;
+    height: 150%;
+    margin: 0 auto;
+    padding: 0;
+    width: auto;
+    }
+
+
+.caption h4{
+	line-height: 1.2;
+    font-family: 'Raleway', sans-serif;
+    color: #151515;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 5px 0;
+}
+
+.caption p{
+    color: #333333;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+	text-align: center;
+}
+.social-links{
+    position: relative;
+    z-index: 1;
+
+}
+
+.icons{
+    border: 1px solid #000000;
+    border-radius: 50%;
+    margin: 0 2px;
+    display: inline-block;
+    font-size: 14px;
+    height: 25px;
+    width: 25px;
+    padding: 2px;
+
+}
+
+.container .form-group {
+    margin-bottom: 5px;
+    border-radius: 0;
+    height: 50px;
+    padding: 15px;
+    width: 100%;
+}
+
+.royal-btn {
+    background: #009688 none repeat scroll 0 0;
+    border: 2px solid transparent;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 15px;
+    min-width: 150px;
+    padding: 10px 30px;
+}
+
+.footer_bottom {
+    padding: 30px 0;
+    text-align: center;
+        margin: 0;
+}
+
+.footer_bottom p{
+    color:#ffffff;
+}
+.footer_bottom_area {
+    background-color: #151515;
+    margin: 0;
+    padding: 0;
+     display: block;
+
+}
